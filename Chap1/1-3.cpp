@@ -1,12 +1,15 @@
 //==========================================================================
 // Name        : 1-3.cpp
 // Author      : Yixuan Qiu
-// Version     : 2012-02-21
-// Description : Data Structure and Algorithm Analysis in C
+// Version     : 2012-02-22
+// Source      : Data Structure and Algorithm Analysis in C
 //               Mark Allen weiss and Yue Chen
 //               Exercise 1.3
-//               Printing out numbers
-// Build       : g++ -Wall 1-3.cpp -o 1-1.out
+// Description : Assume that the only I/O routine available will take a
+//               single-digit number and output it to the terminal,
+//               calling this routine PrintDigit(digit). Write a procedure
+//               PrintOut() to print an arbitrary integer or real number.
+// Build       : g++ -Wall 1-3.cpp -o 1-3.out
 //==========================================================================
 
 
